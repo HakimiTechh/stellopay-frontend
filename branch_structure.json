@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "security/issue-1254-harden-the-input-validation-in-middleware",
+    "security/issue-1261-harden-the-input-validation-in-coach-mark"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "security/issue-1254-harden-the-input-validation-in-middleware": "main",
+    "security/issue-1261-harden-the-input-validation-in-coach-mark": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "security/issue-1254-harden-the-input-validation-in-middleware",
+    "security/issue-1261-harden-the-input-validation-in-coach-mark"
+  ]
+}
